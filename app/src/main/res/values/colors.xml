@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="f_font_light_gray">#DFDFDF</color>
+
+    <color name="f_font_tabbar_text_selected">#EA6F5A</color>
+    <color name="f_text_style">#EA6F5A</color>
+    <color name="f_font_tabbar_text_default">#C3C3C3</color>
+    <color name="f_line_gray">#EBEAEA</color>
+    <color name="f_black">#000000</color>
+    <color name="f_text_gray">#A2A2A2</color>
+</resources>
